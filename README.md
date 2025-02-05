@@ -10,12 +10,12 @@ This is a simple AI Image Generator built using React that utilizes OpenAI's API
 ## Installation
 
 
-2. Install dependencies:
+1. Install dependencies:
    ```sh
    npm install
    ```
 
-3. Run the project:
+2. Run the project:
    ```sh
    npm start
    ```
