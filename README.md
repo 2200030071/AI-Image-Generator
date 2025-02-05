@@ -9,11 +9,6 @@ This is a simple AI Image Generator built using React that utilizes OpenAI's API
 
 ## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
-   ```
 
 2. Install dependencies:
    ```sh
